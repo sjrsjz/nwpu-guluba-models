@@ -1,3 +1,5 @@
 {
-  "block.guluba.statue_block": "雕像"
+    "block.guluba.statue_block": "statue",
+    "block.guluba.board_left": "board_left",
+    "block.guluba.board_right": "board_right"
 }

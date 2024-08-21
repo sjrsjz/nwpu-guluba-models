@@ -1,8 +1,8 @@
 {
   "variants": {
-    "facing=north": { "model": "guluba:block/statue_block" },
-    "facing=east": { "model": "guluba:block/statue_block", "y": 90 },
-    "facing=south": { "model": "guluba:block/statue_block", "y": 180 },
-    "facing=west": { "model": "guluba:block/statue_block", "y": 270 }
+    "facing=north": { "model": "guluba:block/board_left" },
+    "facing=east": { "model": "guluba:block/board_left", "y": 90 },
+    "facing=south": { "model": "guluba:block/board_left", "y": 180 },
+    "facing=west": { "model": "guluba:block/board_left", "y": 270 }
   }
 }

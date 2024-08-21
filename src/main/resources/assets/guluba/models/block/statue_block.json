@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "statue_outside_base",
-		"1": "statue_outside_base_text",
-		"2": "statue_outside_clothes",
-		"3": "statue_outside_legs_and_hands",
-		"4": "statue_outside_head_and_hair",
-		"5": "statue_outside_shawl",
-		"particle": "statue_outside_base"
+		"0": "guluba:block/statue_outside_base",
+		"1": "guluba:block/statue_outside_base_text",
+		"2": "guluba:block/statue_outside_clothes",
+		"3": "guluba:block/statue_outside_legs_and_hands",
+		"4": "guluba:block/statue_outside_head_and_hair",
+		"5": "guluba:block/statue_outside_shawl",
+		"particle": "guluba:block/statue_outside_base"
 	},
 	"elements": [
 		{
