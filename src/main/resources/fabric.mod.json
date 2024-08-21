@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "guluba-blocks",
+  "version": "${version}",
+  "name": "guluba-blocks",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/guluba-blocks/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "nwpu.guluba.client.GulubaBlocksClient"
+    ],
+    "main": [
+      "nwpu.guluba.GulubaBlocks"
+    ]
+  },
+  "mixins": [
+    "guluba-blocks.mixins.json",
+    {
+      "config": "guluba-blocks.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
