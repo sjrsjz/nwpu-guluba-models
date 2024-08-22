@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "guluba:block/chuanghu_xia" },
+		"facing=east": { "model": "guluba:block/chuanghu_xia", "y": 90 },
+		"facing=south": { "model": "guluba:block/chuanghu_xia", "y": 180 },
+		"facing=west": { "model": "guluba:block/chuanghu_xia", "y": 270 }
+	}
+}

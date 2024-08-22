@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "guluba:block/men_shangban" },
+		"facing=east": { "model": "guluba:block/men_shangban", "y": 90 },
+		"facing=south": { "model": "guluba:block/men_shangban", "y": 180 },
+		"facing=west": { "model": "guluba:block/men_shangban", "y": 270 }
+	}
+}

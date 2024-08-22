@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "guluba:block/damen_youxia" },
+		"facing=east": { "model": "guluba:block/damen_youxia", "y": 90 },
+		"facing=south": { "model": "guluba:block/damen_youxia", "y": 180 },
+		"facing=west": { "model": "guluba:block/damen_youxia", "y": 270 }
+	}
+}

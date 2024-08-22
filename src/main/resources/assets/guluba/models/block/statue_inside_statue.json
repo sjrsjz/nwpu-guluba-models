@@ -1,12 +1,33 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "statue_inside_statue_head_part",
-		"1": "statue_inside_statue_hand_part",
-		"2": "statue_inside_statue_body_part",
-		"3": "statue_inside_statue_gadget_part",
-		"particle": "statue_inside_statue_head_part"
+		"0": "guluba:block/statue_inside_statue_head_part",
+		"1": "guluba:block/statue_inside_statue_hand_part",
+		"2": "guluba:block/statue_inside_statue_body_part",
+		"3": "guluba:block/statue_inside_statue_gadget_part",
+		"particle": "guluba:block/statue_inside_statue_head_part"
 	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"fixed": {
+			"scale": [0.3, 0.3, 0.3]
+		}
+	},
+
 	"elements": [
 		{
 			"name": "Down",

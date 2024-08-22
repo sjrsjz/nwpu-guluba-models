@@ -1,0 +1,31 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "guluba:block/banhengliang",
+		"particle": "guluba:block/banhengliang"
+	},
+	"elements": [
+		{
+			"from": [8, 4, 5],
+			"to": [18, 16, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 6], "texture": "#0"},
+				"east": {"uv": [8, 6, 11, 12], "texture": "#0"},
+				"south": {"uv": [0, 6, 5, 12], "texture": "#0"},
+				"west": {"uv": [8, 6, 11, 12], "texture": "#0"},
+				"up": {"uv": [13, 3, 8, 0], "texture": "#0"},
+				"down": {"uv": [13, 3, 8, 6], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "Pillar",
+			"origin": [8, 8, 8],
+			"color": 3,
+			"children": [0]
+		}
+	]
+}

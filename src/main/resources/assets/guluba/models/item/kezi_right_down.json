@@ -1,24 +1,3 @@
 {
-	"credit": "Made with Blockbench",
-	"texture_size": [64, 64],
-	"textures": {
-		"0": "guluba:block/kezi_right_down",
-		"particle": "guluba:block/kezi_right_down"
-	},
-	"elements": [
-		{
-			"name": "Text",
-			"from": [0, -16, 14],
-			"to": [16, 16, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 14]},
-			"faces": {
-				"north": {"uv": [0, 0, 4, 8], "texture": "#0"},
-				"east": {"uv": [0, 8, 0.5, 16], "texture": "#0"},
-				"south": {"uv": [4, 0, 8, 8], "texture": "#0"},
-				"west": {"uv": [8, 0, 8.5, 8], "texture": "#0"},
-				"up": {"uv": [4.5, 8.5, 0.5, 8], "texture": "#0"},
-				"down": {"uv": [8.5, 8, 4.5, 8.5], "texture": "#0"}
-			}
-		}
-	]
+	"parent": "guluba:block/kezi_right_down"
 }

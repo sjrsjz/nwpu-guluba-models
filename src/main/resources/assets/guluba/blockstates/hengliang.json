@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "guluba:block/hengliang" },
+		"facing=east": { "model": "guluba:block/hengliang", "y": 90 },
+		"facing=south": { "model": "guluba:block/hengliang", "y": 180 },
+		"facing=west": { "model": "guluba:block/hengliang", "y": 270 }
+	}
+}
