@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "guluba:block/statue_block" },
+    "facing=east": { "model": "guluba:block/statue_block", "y": 90 },
+    "facing=south": { "model": "guluba:block/statue_block", "y": 180 },
+    "facing=west": { "model": "guluba:block/statue_block", "y": 270 }
+  }
+}

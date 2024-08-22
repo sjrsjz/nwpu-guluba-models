@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "guluba:block/stele_outside" },
+    "facing=east": { "model": "guluba:block/stele_outside", "y": 90 },
+    "facing=south": { "model": "guluba:block/stele_outside", "y": 180 },
+    "facing=west": { "model": "guluba:block/stele_outside", "y": 270 }
+  }
+}
