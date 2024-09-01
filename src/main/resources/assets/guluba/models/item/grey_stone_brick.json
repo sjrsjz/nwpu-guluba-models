@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "guluba:block/grey_stone",
+		"particle": "guluba:block/grey_stone"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [6.78889, 2.55556, 14.28889, 11.64444], "texture": "#0", "cullface": "north"},
+				"east": {"uv": [6.7, 2.61111, 14.33333, 11.61111], "texture": "#0"},
+				"south": {"uv": [6.7, 2.61111, 14.33333, 11.61111], "texture": "#0"},
+				"west": {"uv": [6.7, 2.61111, 14.33333, 11.61111], "texture": "#0"},
+				"up": {"uv": [6.7, 2.61111, 14.33333, 11.61111], "texture": "#0"},
+				"down": {"uv": [6.7, 2.61111, 14.33333, 11.61111], "texture": "#0"}
+			}
+		}
+	]
+}

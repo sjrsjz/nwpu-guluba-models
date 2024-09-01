@@ -6,6 +6,26 @@
 		"1": "guluba:block/shibei_middle_text_1",
 		"particle": "guluba:block/shibei_middle"
 	},
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"gui": {
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"fixed": {
+			"scale": [0.3, 0.3, 0.3]
+		}
+	},
 	"elements": [
 		{
 			"from": [9, -16, -5],
